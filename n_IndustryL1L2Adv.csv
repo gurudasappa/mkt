@@ -1,0 +1,93 @@
+Industry_L1,Industry_L2,Advertiser
+CMT,CMT C&M,AT&T
+CMT,CMT C&M,CenturyLink
+CMT,CMT C&M,Liberty Global
+CMT,CMT C&M,Telstra
+CMT,CMT C&M,The Walt Disney Company
+CMT,CMT C&M,T-Mobile
+CMT,CMT C&M,Verizon
+CMT,CMT C&M,Walt Disney
+CMT,CMT HT,Airbus Group
+CMT,CMT HT,Apple
+CMT,CMT HT,Hewlett Packard Enterprise
+CMT,CMT HT,IBM
+CMT,CMT HT,Intel
+CMT,CMT HT,Lenovo
+CMT,CMT HT,Microsoft
+CMT,CMT HT,Nokia
+CMT,CMT HT,Sony 
+FS,FS Banking,American Express
+FS,FS Banking,Bank of America
+FS,FS Banking,Barclays
+FS,FS Banking,BBVA
+FS,FS Banking,BNP Paribas
+FS,FS Banking,CIBC
+FS,FS Banking,Deutsche
+FS,FS Banking,Fannie Mae
+FS,FS Banking,HSBC
+FS,FS Banking,JP Morgan Chase
+FS,FS Banking,MasterCard
+FS,FS Banking,Visa
+FS,FS Banking,Wells Fargo
+FS,FS Capital Markets,Credit Suisse
+FS,FS Capital Markets,Deutsche Bank
+FS,FS Capital Markets,Morgan Stanley
+FS,FS Capital Markets,Vanguard
+FS,FS Insurance,AIG
+FS,FS Insurance,Allianz
+FS,FS Insurance,Allstate
+FS,FS Insurance,AXA
+FS,FS Insurance,Prudential
+H&PS,H&PS Health,Bristol-Myers Squibb
+H&PS,H&PS Health,Johnson & Johnson
+H&PS,H&PS Health,Kaiser Permanente
+H&PS,H&PS Health,Novartis
+H&PS,H&PS Health,Pfizer
+H&PS,H&PS PS Ops & Mngt,Accenture
+PD,PD Auto,BMW Group
+PD,PD Auto,Daimler AG
+PD,PD Auto,Ford
+PD,PD Auto,General Motors
+PD,PD Auto,Harley-Davidson
+PD,PD Auto,Volkswagon
+PD,PD Con Goods & Srvcs,Adidas
+PD,PD Con Goods & Srvcs,Barilla
+PD,PD Con Goods & Srvcs,Chobani
+PD,PD Con Goods & Srvcs,Clorox
+PD,PD Con Goods & Srvcs,Coca-Cola
+PD,PD Con Goods & Srvcs,Danone
+PD,PD Con Goods & Srvcs,Del Monte
+PD,PD Con Goods & Srvcs,Diageo
+PD,PD Con Goods & Srvcs,Energizer
+PD,PD Con Goods & Srvcs,Estee Lauder
+PD,PD Con Goods & Srvcs,Hasbro
+PD,PD Con Goods & Srvcs,Hershey
+PD,PD Con Goods & Srvcs,Kellogg
+PD,PD Con Goods & Srvcs,L'Oreal
+PD,PD Con Goods & Srvcs,Mars Inc
+PD,PD Con Goods & Srvcs,McDonalds
+PD,PD Con Goods & Srvcs,Miller Coors
+PD,PD Con Goods & Srvcs,Mondelez
+PD,PD Con Goods & Srvcs,Nestle
+PD,PD Con Goods & Srvcs,Nike
+PD,PD Con Goods & Srvcs,P&G
+PD,PD Con Goods & Srvcs,Panasonic
+PD,PD Con Goods & Srvcs,Unilever
+PD,PD Ind Equip,Michelin
+PD,PD Life Sciences,Merck
+PD,PD Life Sciences,Sanofi
+PD,PD Retail,Carrefour
+PD,PD Retail,H&M
+PD,PD Retail,Kohl's
+PD,PD Retail,Target
+PD,PD Retail,Walmart
+PD,PD Transp Svc,Avis Budget Group
+PD,PD Transp Svc,Hertz
+PD,PD Travel,Carnival Corporation
+PD,PD Travel,Delaware North
+PD,PD Travel,Hilton
+RS,RS Chem,Chemours
+RS,RS Energy,BP
+RS,RS Energy,Petronas
+RS,RS Util,EDF
+RS,RS Util,ENGIE
